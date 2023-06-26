@@ -6,3 +6,7 @@ section {
     width: 100%;
     height: 100%;
 }
+#docs video{
+    width: 50%;
+    height: 100vh;
+}
